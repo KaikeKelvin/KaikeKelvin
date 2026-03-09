@@ -53,6 +53,7 @@ Estudante técnico apaixonado por resolver problemas complexos com código elega
 
 ![Estatísticas de Kaike](https://github-readme-stats.vercel.app/api?username=KaikeKelvin&show_icons=true&theme=tokyonight&count_private=true)
 ![Linguagens de Kaike](https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeKelvin&layout=compact&theme=tokyonight)
+
 ---
 
 ## 🚀 Filosofia
