@@ -55,7 +55,10 @@ Estudante técnico apaixonado por resolver problemas complexos com código elega
   <img height="170" src="https://github-readme-stats.vercel.app/api?username=KaikeKelvin&show_icons=true&theme=tokyonight&count_private=true" />
   <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeKelvin&layout=compact&theme=tokyonight" />
 </p>
-
+<p align="left">
+  <img src="https://github-readme-stats.vercel.app/api?username=KaikeKelvin&show_icons=true&theme=tokyonight&count_private=true" height="170" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=KaikeKelvin&layout=compact&theme=tokyonight" height="170" />
+</p>
 ---
 
 ## 🚀 Filosofia
