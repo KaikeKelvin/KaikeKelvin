@@ -53,7 +53,7 @@ Estudante técnico apaixonado por resolver problemas complexos com código elega
 
 <p align="left">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=KaikeKelvin&show_icons=true&theme=tokyonight&count_private=true&cache_seconds=1800" height="170" />
-  <img src="https://github-readme-stats-one-eight.vercel.app/api/top-langs/?username=KaikeKelvin&layout=compact&theme=tokyonight" height="170" />
+  <img src="https://github-readme-stats-git-master-anuraghazra.vercel.app/api/top-langs/?username=KaikeKelvin&layout=compact&theme=tokyonight" height="170" />
 </p>
 
 ---
