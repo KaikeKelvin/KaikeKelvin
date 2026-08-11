@@ -12,6 +12,9 @@ Estudante técnico apaixonado por resolver problemas complexos com código elega
   <a href="https://github.com/KaikeKelvin">
     <img src="https://img.shields.io/badge/GitHub-KaikeKelvin-181717?style=for-the-badge&logo=github" />
   </a>
+<a href="mailto:kaikekelvin.dev@gmail.com">
+  <img src="https://shields.io" />
+</a>
   <a href="https://instagram.com/kaike_k07">
     <img src="https://img.shields.io/badge/Instagram-@kaike_k07-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
